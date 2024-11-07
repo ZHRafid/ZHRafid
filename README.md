@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on GaoTek Inc as a Web Developer Intern [https://www.linkedin.com/company/gao-tek-inc-/mycompany/](https://www.linkedin.com/company/gao-tek-inc-/mycompany/)
 
 - 🌱 I’m currently learning
--
+
 - **Language: Python, Java, JavaScript**
 - **Framework: React, Express, Tailwind CSS**
 - **Tool: GIT, Docker**
