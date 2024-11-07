@@ -3,11 +3,14 @@
 
 - 🔭 I’m currently working on GaoTek Inc as a Web Developer Intern [https://www.linkedin.com/company/gao-tek-inc-/mycompany/](https://www.linkedin.com/company/gao-tek-inc-/mycompany/)
 
-- 🌱 I’m currently learning **AI, ML, React, Express JS, Django, Tailwind CSS**
+- 🌱 I’m currently learning **Language: Python, Java, JavaScript**
+- **Framework: React, Express, Tailwind CSS**
+- **Tool: GIT, Docker**
+- **Skill: Web Development, AI & ML, Data Analyst**
+- 
+- 
 
-- 👯 I’m looking to collaborate on **Varsity Grade System**
-
-- 🤝 I’m looking for help with **Bank Management System**
+- 👯 I’m looking to collaborate on  **Varsity Grade System**
 
 - 👨‍💻 All of my projects are available at [https://zhrafid.github.io/zhr_portfolio/](https://zhrafid.github.io/zhr_portfolio/)
 
