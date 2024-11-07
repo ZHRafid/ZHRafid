@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on GaoTek Inc as a Web Developer Intern [https://www.linkedin.com/company/gao-tek-inc-/mycompany/](https://www.linkedin.com/company/gao-tek-inc-/mycompany/)
 
-- 🌱 I’m currently learning **React, Express JS, Django, Tailwind CSS**
+- 🌱 I’m currently learning **AI, ML, React, Express JS, Django, Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **Varsity Grade System**
 
